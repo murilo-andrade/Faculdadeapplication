@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Faculdade</string>
+    <string name="action_new">Nova Disciplina</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_update">Atualizar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="loading">Carregando…</string>
+    <string name="save_button">Salvar</string>
+    <string name="lecture">Disciplina</string>
+</resources>
