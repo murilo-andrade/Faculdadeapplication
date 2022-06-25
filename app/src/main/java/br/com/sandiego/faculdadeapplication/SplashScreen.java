@@ -2,7 +2,6 @@ package br.com.sandiego.faculdadeapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.ActionBar;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -10,9 +9,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
 import android.widget.TextView;
-
 import com.google.firebase.crashlytics.buildtools.reloc.org.apache.commons.io.IOUtils;
-
 import org.json.JSONArray;
 import org.json.JSONObject;
 
